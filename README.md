@@ -16,8 +16,8 @@ in the [final project proposal repository](https://github.com/MUSA-550-Fall-2023
 The notebook for part 2 should be submitted to your own private repository on GitHub, 
 which can be created using the following links:
 
-> Section 401:
+> Section 401: [https://classroom.github.com/a/I6ClJkqo](https://classroom.github.com/a/I6ClJkqo)
 >
-> Section 402:
+> Section 402: [https://classroom.github.com/a/0kf8DAMS](https://classroom.github.com/a/0kf8DAMS)
 
 
